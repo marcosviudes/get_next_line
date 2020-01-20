@@ -6,7 +6,7 @@
 /*   By: mviudes <mviudes@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/14 21:42:05 by mviudes           #+#    #+#             */
-/*   Updated: 2020/01/20 16:48:13 by mviudes          ###   ########.fr       */
+/*   Updated: 2020/01/20 19:01:50 by mviudes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ int			main(void)
 	char	*line;
 	int		i;
 
-	fd = open("/Users/mviudes/42_cursus/get_next_line/prueba.txt", O_RDONLY);
+	fd = open("prueba.txt", O_RDONLY);
 	i = 1;
 	while (i != 0)
 	{

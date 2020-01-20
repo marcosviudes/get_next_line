@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mviudes <mviudes@student.42.fr>            +#+  +:+       +#+        */
+/*   By: mviudes <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/12/16 18:20:31 by mviudes           #+#    #+#             */
-/*   Updated: 2020/01/18 19:07:42 by mviudes          ###   ########.fr       */
+/*   Created: 2020/01/20 19:10:41 by mviudes           #+#    #+#             */
+/*   Updated: 2020/01/20 19:10:43 by mviudes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t			ft_strlcat(char *dst, const char *src, size_t dstsize)
 {

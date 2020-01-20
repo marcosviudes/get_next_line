@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mviudes <mviudes@student.42.fr>            +#+  +:+       +#+        */
+/*   By: mviudes <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/11/26 20:52:32 by mviudes           #+#    #+#             */
-/*   Updated: 2020/01/18 19:02:54 by mviudes          ###   ########.fr       */
+/*   Created: 2020/01/20 19:09:05 by mviudes           #+#    #+#             */
+/*   Updated: 2020/01/20 19:09:09 by mviudes          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 void			*ft_memcpy(void *str1, const void *str2, size_t n)
 {
